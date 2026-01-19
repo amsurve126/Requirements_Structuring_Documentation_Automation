@@ -1,4 +1,4 @@
-# AI-Enabled Business Analysis Workflow
+# Requirements Structuring & Documentation Automation (Business Analysis)
 
 ## Overview
 Business Analysts often spend significant time converting unstructured stakeholder inputs—such as meeting notes, emails, and discussion summaries—into structured requirements documentation. This manual process can be time-consuming, inconsistent, and prone to missed details.
